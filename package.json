@@ -1,0 +1,25 @@
+{
+    "name": "koa-learn",
+    "version": "1.0.0",
+    "description": "learning trip",
+    "main": "app.js",
+    "scripts": {
+	"start": "node app.js"
+    },
+    "keywords": [
+	"koa",
+	"node",
+	"grpc"
+    ],
+    "author": "sylvia lee",
+    "license": "Apache-2.0",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/sylvialee/koa-learn.git"
+    },
+    "dependencies": {
+	"koa": "2.0.0"
+    }
+
+
+}
