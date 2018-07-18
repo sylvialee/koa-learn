@@ -1,0 +1,4 @@
+function static(url, dir){
+
+
+}
